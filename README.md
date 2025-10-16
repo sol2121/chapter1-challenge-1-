@@ -47,13 +47,13 @@ Copy code
 
 ## Reflection
 
-# What I Learned:
+### What I Learned:
 - How to extract digits from any position in a number using just math.
 - Using `Math.log10()` to determine the number of digits in a number.
 - How to avoid using conditionals or loops by relying purely on mathematical logic.
 - The importance of thinking in terms of **place values** when dealing with digits.
 
-# What Was Difficult:
+### What Was Difficult:
 - Figuring out how to extract the **second** and **second-last** digits without converting the number to a string.
 - Keeping everything purely numeric without using arrays, strings, or loops.
 - Ensuring the solution works for all valid positive integers with enough digits.
