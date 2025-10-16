@@ -1,4 +1,4 @@
- Challenge 1.1: The Cryptic Message Decoder (Variables & Operators)
+### Challenge 1.1: The Cryptic Message Decoder (Variables & Operators)
 
 # Project Name:
 **Chapter1_Challenge_1_1**
@@ -45,9 +45,9 @@ Copy code
 
 ---
 
-# Reflection
+## Reflection
 
-## What I Learned:
+# What I Learned:
 - How to extract digits from any position in a number using just math.
 - Using `Math.log10()` to determine the number of digits in a number.
 - How to avoid using conditionals or loops by relying purely on mathematical logic.
@@ -60,37 +60,4 @@ Copy code
 
 ---
 
-# Technologies Used:
-- Java
-- Scanner for user input
-- Math operators and functions (`/`, `%`, `Math.log10()`)
-
----
-
-##  How to Run This Program:
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/Chapter1_Challenge_1_1.git
-cd Chapter1_Challenge_1_1
-Compile and run the program:
-
-bash
-Copy code
-javac Main.java
-java Chapter1_Challenge_1_1.Main
- Final Thoughts:
-This challenge helped reinforce the power of basic operators and clean logic. It’s a great exercise in precision and problem decomposition — perfect for mastering early Java programming concepts.
-
-yaml
-Copy code
-
----
-
-###  Next Steps:
-- Save this as `README.md` and place it in your project folder.
-- Commit and push your code + README to its own GitHub repository.
-
-Would you like a `.zip` of the project with this file included, or do you need Git instructions for pushing it to GitHub?
-
-
+  
