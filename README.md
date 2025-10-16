@@ -1,6 +1,6 @@
-### Challenge 1.1: The Cryptic Message Decoder (Variables & Operators)
+# Challenge 1.1: The Cryptic Message Decoder (Variables & Operators)
 
-# Project Name:
+## Project Name:
 **Chapter1_Challenge_1_1**
 
 ---
@@ -19,7 +19,7 @@ The program:
 
 ---
 
-# Example Input/Output:
+### Example Input/Output:
 
 ### Example 1:
 **Input:**
@@ -45,7 +45,7 @@ Copy code
 
 ---
 
-## Reflection
+### Reflection
 
 ### What I Learned:
 - How to extract digits from any position in a number using just math.
