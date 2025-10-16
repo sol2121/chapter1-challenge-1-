@@ -19,7 +19,7 @@ The program:
 
 ---
 
-### Example Input/Output:
+## Example Input/Output:
 
 ### Example 1:
 **Input:**
@@ -45,7 +45,7 @@ Copy code
 
 ---
 
-### Reflection
+## Reflection
 
 ### What I Learned:
 - How to extract digits from any position in a number using just math.
